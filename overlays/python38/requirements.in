@@ -8,4 +8,5 @@ jupyterlab~=3.0.0
 jupyterlab-requirements>=0.4.7
 jupyter_kernel_gateway==2.4.0
 jupyter-nbrequirements
+pandas==1.2.3
 supervisor==4.1.0
