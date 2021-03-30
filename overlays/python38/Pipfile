@@ -13,6 +13,7 @@ jupyterlab-requirements = ">=0.4.7"
 jupyter_kernel_gateway = "==2.4.0"
 jupyter-nbrequirements = "*"
 supervisor = "==4.1.0"
+pandas = "==1.2.3"
 
 [requires]
 python_version = "3.8"
